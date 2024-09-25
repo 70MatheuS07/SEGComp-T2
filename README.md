@@ -1,3 +1,11 @@
+# Trabalho 2 - Segurança em Computação
+Este trabalho tem como objetivo instalar e configurar uma ferramenta de segurança, simular ataques cibernéticos de força bruta e documentar, criando um tutorial do processo.
+
+### Participantes:
+- Lucas Gabriel de Oliveira Costa
+- Matheus de Oliveira Lima
+- Matheus Lopes Ferreira Lima
+
 # SSH Honeypot com Cowrie e Força Bruta com Medusa
 
 Este tutorial explica como configurar um honeypot SSH usando **Cowrie** e realizar ataques de força bruta usando **Medusa**. Ele serve para criar um ambiente controlado onde possíveis invasores podem ser atraídos, e suas tentativas de acesso são registradas para análise posterior. O uso do Medusa permite simular ataques de força bruta para testar a eficácia da configuração do honeypot.
