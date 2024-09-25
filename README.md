@@ -1,4 +1,4 @@
-# Trabalho 2 - Segurança em Computação
+# Trabalho 2 - Segurança da Computação
 Este trabalho tem como objetivo instalar e configurar uma ferramenta de segurança, simular ataques cibernéticos de força bruta e documentar, criando um tutorial do processo.
 
 ### Participantes:
